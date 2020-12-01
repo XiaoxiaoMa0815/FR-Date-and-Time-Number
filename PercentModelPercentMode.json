@@ -1,10 +1,10 @@
 [
     {
-        "Input": "1.0",
+        "Input": "100%",
         "NotSupported": "javascript, python",
         "Results": [
             {
-                "Text": "1.0",
+                "Text": "100%",
                 "TypeName": "percentage",
                 "Resolution": {
                     "value": "100%"
